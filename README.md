@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Leetcode Stats](https://leetcard.jacoblin.cool/2020ucp1795?ext=heatmap)
 
 <!--
 **t4nm4ymittal/t4nm4ymittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
